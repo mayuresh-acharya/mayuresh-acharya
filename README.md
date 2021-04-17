@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayuresh Acharya but on GitHub I'm @mayuresh-acharya
 - 👀 I’m interested in ... Electronics, Aircrafts and Drones, and Music
 - 🌱 I’m currently learning ...Electronics and Telecommunications Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... any project that I can contribute to in any way
 - 📫 How to reach me ... email: mayuresh.21910945@viit.ac.in, mayuresh194@gmail.com
 
 <!---
